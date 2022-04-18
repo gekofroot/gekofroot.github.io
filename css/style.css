@@ -57,6 +57,10 @@ a:visited {
 	position: relative;
 	top: 50%;
 	text-align: center;
+	margin-top: 25px;
+	margin-right: 50px;
+	margin-bottom: 25px;
+	margin-left: 25px;
 }
 
 .vcenter {
