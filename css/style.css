@@ -52,6 +52,13 @@ a:visited {
     color: #666;
     text-decoration: none;
 }
+
+.banana {
+	position: relative;
+	top: 50%;
+	text-align: center;
+}
+
 .vcenter {
     position: relative;
     top: 50%;
