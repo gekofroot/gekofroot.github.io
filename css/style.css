@@ -194,8 +194,7 @@ a:visited {
 .nav-list {
     list-style: none;
     padding: 0;
-    position: relative;
-    size: 200px;
+    position: bottom;
 }
 .item-anchor {
     color: #fff;
