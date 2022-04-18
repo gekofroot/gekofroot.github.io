@@ -108,7 +108,7 @@ a:visited {
     width: auto;
     display: inline-block;
     border: none;
-    float: center;
+    float: right;
     z-index: 99999;
 }
 .navbar-fixed-top {
@@ -379,7 +379,7 @@ a:visited {
     height: 50px;
     padding: 16px;
     width: 50px;
-    float: center;
+    float: right;
     margin-top: 0px;
     margin-bottom: 0px;
 }
