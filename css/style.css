@@ -54,6 +54,7 @@ a:visited {
 }
 
 .banana {
+	border: 5px solid #ffffff;
 	position: relative;
 	top: 50%;
 	text-align: center;
