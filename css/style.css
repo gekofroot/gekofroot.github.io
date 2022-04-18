@@ -226,8 +226,8 @@ a:visited {
 .nav-item {
     font-family: 'Open Sans', sans-serif;
     margin: 10px auto;
-    text-align: left;
-    color: #222;
+    text-align: center;
+    color: #ff0000;
 }
 .nav-item a:link,
 .nav-item a:hover,
