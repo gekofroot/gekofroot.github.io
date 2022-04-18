@@ -64,8 +64,8 @@ a:visited {
 }
 
 .vcenter {
-    position: right;
-    top: 50%;
+    position: relative;
+    top: 100%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
