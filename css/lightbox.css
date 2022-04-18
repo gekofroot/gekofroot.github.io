@@ -13,7 +13,7 @@ body.lb-disable-scrolling {
   top: 0;
   left: 0;
   z-index: 9999;
-  background-color: black;
+  background-color: blue;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
   opacity: 0.8;
   display: none;
@@ -21,7 +21,7 @@ body.lb-disable-scrolling {
 
 .lightbox {
   position: fixed;
-  left: 2000;
+  left: 0;
   width: 100%;
   z-index: 10000;
   text-align: center;
