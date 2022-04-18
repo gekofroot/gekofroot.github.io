@@ -96,7 +96,7 @@ a:visited {
 .nav {
     position: relative;
     width: auto;
-    display: grid;
+    display: inline-block;
     border: none;
     float: center;
     z-index: 99999;
