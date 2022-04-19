@@ -161,7 +161,7 @@ a:visited {
     }
 }
 .opaque {
-    background-color: #fff!important;
+    background-color: #ff0000!important;
 }
 .btn-nav:hover .icon-bar {
     -webkit-transition: all 1s ease;
