@@ -152,14 +152,14 @@ a:visited {
     margin: 6px 0;
     width: 30px;
     height: 3px;
-    background-color: #ff0000;
+    background-color: #ffffff;
 }
 .icon-bar.inverted {
-    background-color: #ff0000;
+    background-color: #ffffff;
 }
 @media (max-width: 992px) {
     .icon-bar.inverted {
-        background-color: #ff00ff;
+        background-color: #ffffff;
     }
 }
 .opaque {
