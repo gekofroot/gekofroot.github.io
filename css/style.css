@@ -34,7 +34,6 @@ p,
 ul,
 li {
     color: #ffffff;
-    background-color: #000000;
 }
 section {
     padding-top: 185px;
@@ -205,6 +204,7 @@ a:visited {
     -ms-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
+    background-color: #ff0000;
 }
 .item-anchor:hover:after,
 .item-anchor:focus:after {
