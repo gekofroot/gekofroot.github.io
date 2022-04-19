@@ -157,6 +157,7 @@ a:visited {
 }
 .btn-nav:focus {
     outline: 0;
+    background-color: #00ffff;
 }
 .icon-bar {
     display: block;
