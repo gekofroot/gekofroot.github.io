@@ -58,6 +58,7 @@ a:link {
     color: #ffffff;
     background-color: #000000;
     border-color: #ff00ff;
+    border-width: 50px;
 }
 a:hover,
 a:focus,
