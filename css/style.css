@@ -72,10 +72,10 @@ a:visited {
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
-    background-color: #000000;
 }
 .fill {
     height: 100vh;
+    background-color: #ff00ff:
 }
 .margin-top-05 {
     margin-top: 0.5em;
