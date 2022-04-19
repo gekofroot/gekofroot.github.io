@@ -326,7 +326,7 @@ if (typeof jQuery === 'undefined') {
 
   Carousel.VERSION  = '3.3.6'
 
-  Carousel.TRANSITION_DURATION = 3600
+  Carousel.TRANSITION_DURATION = 600
 
   Carousel.DEFAULTS = {
     interval: 5000,
@@ -563,7 +563,7 @@ if (typeof jQuery === 'undefined') {
 
   Collapse.VERSION  = '3.3.6'
 
-  Collapse.TRANSITION_DURATION = 350
+  Collapse.TRANSITION_DURATION = 1
 
   Collapse.DEFAULTS = {
     toggle: true
