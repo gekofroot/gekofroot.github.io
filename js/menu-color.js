@@ -6,7 +6,7 @@
        $('.navbar-brand img').attr('src', 'img/logo.png');
     } else {
        $('.icon-bar').removeClass('opaque');
-       $('.navbar-brand img').attr('src', 'img/logo-light.png');
+       $('.navbar-brand img').attr('src', 'img/logo.png');
     }
 });
 
@@ -17,7 +17,7 @@ $(function(){
         if($(this).scrollTop() > 100) {
             $('#topbar, .cart-label').fadeOut('fast');
             $('.logo img')
-                .attr('src','img/logo-light.png');
+                .attr('src','img/logo.png');
         }
         if($(this).scrollTop() < 100) {
             $('#logo, #topbar, .cart-label').fadeIn('fast');
