@@ -75,7 +75,6 @@ a:visited {
 }
 .fill {
     height: 100vh;
-    background-color: #ff00ff:
 }
 .margin-top-05 {
     margin-top: 0.5em;
@@ -115,6 +114,7 @@ a:visited {
     float: center;
     z-index: 99999;
     top: 200;
+    background-color: #ff00ff;
 }
 .navbar-fixed-top {
     padding-top: 10px;
