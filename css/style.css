@@ -215,6 +215,7 @@ a:visited {
     -ms-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
+    color: #ff0000;
 }
 .nav-item {
     font-family: 'Open Sans', sans-serif;
