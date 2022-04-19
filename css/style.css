@@ -12,6 +12,7 @@ body {
 }
 html {
     overflow-x: hidden;
+    background-color: #ff0000;
 }
 h1,
 h2,
@@ -39,7 +40,6 @@ li {
 section {
     padding-top: 185px;
     padding-bottom: 185px;
-    background-color: #ff0000;
 }
 .no-gutter {
     padding-right: 0;
