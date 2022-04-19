@@ -209,13 +209,12 @@ a:visited {
 .item-anchor:hover:after,
 .item-anchor:focus:after {
     width: 100%;
-    background: #f7f7f7;
+    background: #f70000;
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
     -ms-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
-    color: #ff0000;
 }
 .nav-item {
     font-family: 'Open Sans', sans-serif;
