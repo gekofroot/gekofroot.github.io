@@ -235,7 +235,7 @@ a:visited {
 }
 .animated:hover .icon-bar,
 .animated:focus .icon-bar {
-    background-color: #ff0000;
+    background-color: #fff;
 }
 .animated:focus {
     cursor: pointer;
@@ -376,7 +376,7 @@ a:visited {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fff;
+    background-color: #ff0000;
 }
 .navbar-default .navbar-toggle,
 .navbar-default .navbar-collapse,
