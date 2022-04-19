@@ -323,10 +323,10 @@ a:visited {
     }
 }
 .showNav {
-    -webkit-animation: showNav 1s ease forwards;
-    -moz-animation: showNav 1s ease forwards;
-    -o-animation: showNav 1s ease forwards;
-    animation: showNav 1s ease forwards;
+    -webkit-animation: showNav 0.4s ease forwards;
+    -moz-animation: showNav 0.4s ease forwards;
+    -o-animation: showNav 0.4s ease forwards;
+    animation: showNav 0.4s ease forwards;
 }
 @keyframes hideNav {
     from {
@@ -361,10 +361,10 @@ a:visited {
     }
 }
 .hideNav {
-    -webkit-animation: hideNav 1s ease forwards;
-    -moz-animation: hideNav 1s ease forwards;
-    -o-animation: hideNav 1s ease forwards;
-    animation: hideNav 1s ease forwards;
+    -webkit-animation: hideNav 0.4s ease forwards;
+    -moz-animation: hideNav 0.4s ease forwards;
+    -o-animation: hideNav 0.4s ease forwards;
+    animation: hideNav 0.4s ease forwards;
 }
 .hidden {
     display: none;
