@@ -34,6 +34,7 @@ p,
 ul,
 li {
     color: #ffffff;
+    background-color: #000000;
 }
 section {
     padding-top: 185px;
@@ -46,7 +47,6 @@ section {
 a,
 a:link {
     color: #ffffff;
-    background-color: #ff0000;
 }
 a:hover,
 a:focus,
