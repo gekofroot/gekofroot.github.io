@@ -376,12 +376,12 @@ a:visited {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #ff0000;
+    background-color: #fff;
 }
 .navbar-default .navbar-toggle,
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-    border-color: #fff;
+    border-color: #ff0000;
 }
 .navbar-toggle span {
     width: 25px;
