@@ -57,6 +57,7 @@ a,
 a:link {
     color: #ffffff;
     background-color: #000000;
+    border: #ff00ff;
 }
 a:hover,
 a:focus,
