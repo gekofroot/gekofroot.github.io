@@ -46,6 +46,7 @@ section {
 a,
 a:link {
     color: #ffffff;
+    background-color: #ff0000;
 }
 a:hover,
 a:focus,
