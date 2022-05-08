@@ -3,6 +3,14 @@
 
 /*---------- Global Style ----------*/
 
+
+.bonobono {
+	position: relative;
+	left: 20px;
+	top: 200px;
+	border 6px solid #ff0000;
+}
+
 .bonobo {
 	position: relative;
 	left: 20px;
