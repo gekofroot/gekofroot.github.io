@@ -3,6 +3,12 @@
 
 /*---------- Global Style ----------*/
 
+.bonobo {
+	position: relative;
+	left: 100;
+	border: 3px solid #73AD21;
+}
+
 body {
     color: #fff;
     font-family: 'Fauna One', serif;
