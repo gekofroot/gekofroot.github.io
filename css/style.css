@@ -11,10 +11,10 @@
 .home_bg {
 	/*
 	background-image: url("/img/portfolio1.jpg");
-        */
-	position: fixed; 
+        
         background-size: cover;
 	height: 200;
+	*/
 }
 
 .bonobono {
