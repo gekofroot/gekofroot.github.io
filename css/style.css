@@ -5,7 +5,7 @@
 
 .squash {
 	background-color: #220000;
-	border: 4px solid;
+	border: 2px solid;
 	display: block;
 	padding: 200px 0;
 	height: 500px;
@@ -15,7 +15,7 @@
 }
 
 .squashy {
-	border: 5px solid #ff0000;
+	border: 2px solid #ff0000;
 	display: block;
 	padding: 200px 0;
 	height: 500px;
