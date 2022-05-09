@@ -4,6 +4,7 @@
 /*---------- Global Style ----------*/
 
 .squash {
+	background-image: url("/img/giphy.webp.gif");
 	border: 4px solid;
 	display: block;
 	padding: 200px 0;
