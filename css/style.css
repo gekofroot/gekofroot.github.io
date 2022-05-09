@@ -198,7 +198,6 @@ a:visited {
     margin: 6px 0;
     width: 30px;
     height: 3px;
-    color: #ff0000;
     background-color: #ffffff;
 }
 .icon-bar.inverted {
@@ -295,7 +294,6 @@ a:visited {
     z-index: 9999;
 }
 .middle {
-	color: #ff00ff;
     margin: 0 auto;
 }
 .icon-bar {
