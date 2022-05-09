@@ -295,6 +295,7 @@ a:visited {
     z-index: 9999;
 }
 .middle {
+	color: #ff00ff;
     margin: 0 auto;
 }
 .icon-bar {
