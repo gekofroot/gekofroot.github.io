@@ -3,12 +3,16 @@
 
 /*---------- Global Style ----------*/
 
+.squash {
+	padding: 50px 0;
+}
+
 
 .home_bg {
 	/*
 	background-image: url("/img/portfolio1.jpg");
         */
-	position: relative; 
+	position: fixed; 
         background-size: cover;
 	height: 200;
 }
