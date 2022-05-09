@@ -5,7 +5,10 @@
 
 .squash {
 	border 5px solid #ff0000;
+	display: flex;
 	padding: 50px 0;
+	height: 200px;
+	align-items: center;
 }
 
 
