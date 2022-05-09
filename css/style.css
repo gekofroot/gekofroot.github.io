@@ -4,6 +4,12 @@
 /*---------- Global Style ----------*/
 
 
+.home_bg {
+	background-image: url("/img/portfolio1.jpg");
+        position: relative; 
+        background-size: cover; 
+}
+
 .bonobono {
 	position: relative;
 	left: 20px;
