@@ -24,8 +24,9 @@
 	*/
 	align-items: center;
 	font-size: 24px;
-	border-color: #ffffff;
-	background-color: #ff00ff;
+	border-color: #c3c3c3;
+	color: #15253f;
+	background-color: #15253f;
 }
 
 .squashy {
