@@ -255,8 +255,8 @@ a:visited {
     list-style: none;
     padding: 0;
     position: relative;
-    color: #ff0000;
-    background-color: #ff0000;
+    color: #000000;
+    background-color: #000000;
 }
 .item-anchor {
     color: #fff;
