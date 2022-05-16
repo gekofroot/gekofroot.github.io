@@ -112,10 +112,12 @@ section {
     padding-right: 0;
     padding-left: 0;
 }
+
+/* link */
 a,
 a:link {
     color: #ffffff;
-    background-color: #00ff00;
+    background-color: transparent;
 }
 
 /* link */
