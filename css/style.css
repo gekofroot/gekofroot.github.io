@@ -115,6 +115,8 @@ a:link {
     color: #ffffff;
     background-color: #00ff00;
 }
+
+/* link */
 a:hover,
 a:focus,
 a:visited {
