@@ -94,11 +94,13 @@ p {
     color: #ffffff;
     text-align: center;
 }
+
+/* link */
 p,
 ul,
 li {
     color: #ffffff;
-    background-color: #ff00ff;
+    background-color: transparent;
 }
 
 section {
