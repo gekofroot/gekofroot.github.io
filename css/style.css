@@ -68,7 +68,7 @@ body {
 
 html {
     overflow-x: hidden;
-    background-color: #ff0000;
+    background-color: #ff000 ;
 }
 h1,
 h2,
@@ -98,13 +98,13 @@ p,
 ul,
 li {
     color: #ffffff;
-    background-color: #000000;
+    background-color: #ff00ff;
 }
 
 section {
     padding-top: 185px;
     padding-bottom: 185px;
-    background-color: #000000;
+    background-color: #0000ff;
 }
 .no-gutter {
     padding-right: 0;
@@ -113,13 +113,13 @@ section {
 a,
 a:link {
     color: #ffffff;
-    background-color: #000000;
+    background-color: #00ff00;
 }
 a:hover,
 a:focus,
 a:visited {
     color: #ffffff;
-    background-color: #000000;
+    background-color: #ffff00;
     text-decoration: none;
 }
 
@@ -225,21 +225,21 @@ a:visited {
 }
 .btn-nav:focus {
     outline: 0;
-    background-color: #000000;
+    background-color: #00ffff;
 }
 .icon-bar {
     display: block;
     margin: 6px 0;
     width: 30px;
     height: 3px;
-    background-color: #ffffff;
+    background-color: #ff7776;
 }
 .icon-bar.inverted {
-    background-color: #ffffff;
+    background-color: #000077;
 }
 @media (max-width: 992px) {
     .icon-bar.inverted {
-        background-color: #ffffff;
+        background-color: #ff0000;
     }
 }
 .opaque {
