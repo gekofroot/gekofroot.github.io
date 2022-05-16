@@ -165,8 +165,11 @@ a:visited {
 
 /*---------- Navbar ----------*/
 
+.logo {
+    background-color: transparent;
+}
 .nav {
-    background-color: #ff0000;
+    background-color: transparent;
     position: relative;
     width: auto;
     display: inline-block;
