@@ -51,6 +51,8 @@
 }
 
 body {
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif'); 
+    background-size: cover; 
     color: #fff;
     font-family: 'Fauna One', serif;
     font-size: 24px;
