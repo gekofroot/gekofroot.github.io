@@ -178,7 +178,9 @@ a:visited {
     padding-top: 10px;
 }
 .navbar-brand {
+	/*
     padding-top: 25px;
+    */
 }
 .navbar-brand > img {
     max-width: 127px;
