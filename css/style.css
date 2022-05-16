@@ -191,9 +191,7 @@ a:visited {
 }
 .navbar-brand {
 	background-color: transparent;
-	/*
-    padding-top: 25px;
-    */
+	padding-top: 5px;
 }
 .navbar-brand > img {
     max-width: 127px;
